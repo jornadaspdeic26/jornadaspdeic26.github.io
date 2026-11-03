@@ -1,0 +1,1 @@
+Official 2026 institutional logos from https://tecnico.ulisboa.pt/en/about-tecnico/institutional/logo-identity-standards/ . Main identity and English DEI identity, colour SVG variants. Original artwork retained.

@@ -1,0 +1,8 @@
+Klavika: institutional web font files used by the Técnico PhD Open Days reference site. Source Sans Pro: Google Fonts distribution, SIL Open Font License.
+https://static.tecnico.ulisboa.pt/fonts/klavika/klavikalight-plain-webfont.woff
+https://static.tecnico.ulisboa.pt/fonts/klavika/klavikaregular-plain-webfont.woff
+https://static.tecnico.ulisboa.pt/fonts/klavika/klavikamedium-plain-webfont.woff
+https://static.tecnico.ulisboa.pt/fonts/klavika/klavikaboldbold-webfont.woff
+https://fonts.gstatic.com/s/sourcesanspro/v24/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
