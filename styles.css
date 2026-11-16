@@ -25,3 +25,6 @@ h1{font-weight:300;letter-spacing:-1.6px}h2{font-weight:500;letter-spacing:-.5px
 @font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:700;font-display:swap;src:url('assets/fonts/source-sans-pro-700.woff2')}
 
 .institution .department img{width:390px;height:auto;max-height:110px}@media(max-width:600px){.institution .department img{width:310px;height:auto;max-height:90px}}
+
+/* Scientific area labels and revised programme */
+.area-badge{display:inline-block;padding:2px 8px;border:1px solid currentColor;border-radius:3px;font-size:12px;font-weight:700;line-height:1.5;white-space:nowrap}.area-IA{color:#69419a;background:#f1e9fa}.area-ASO{color:#145a91;background:#e6f1fb}.area-MTP{color:#246640;background:#e9f5ec}.area-IG{color:#914600;background:#fff0dc}.area-SI{color:#9b3156;background:#fdeaf0}.area-legend{display:flex;flex-wrap:wrap;gap:10px 22px;font-size:14px;margin:22px 0}.session-areas{margin:5px 0}.slot-note{display:block;font-size:12px;color:var(--muted);white-space:normal}.session-filter{margin:20px 0 10px}.session-filter select{font:inherit;padding:8px;border:1px solid var(--line);background:white;color:var(--ink)}.session-filter label{margin-right:10px}table{min-width:900px}td{vertical-align:top}@media print{.session-filter{display:none}table{min-width:0;width:100%}.area-badge{font-size:9px}.slot-note{font-size:9px}}
