@@ -471,7 +471,7 @@
   },
   {
     "session": "III",
-    "area": "MTP",
+    "area": "IA",
     "order": 3,
     "start": "13:47:00",
     "end": "13:50:30",
@@ -481,7 +481,7 @@
   },
   {
     "session": "III",
-    "area": "MTP",
+    "area": "IA",
     "order": 4,
     "start": "13:50:30",
     "end": "13:54:00",
@@ -491,7 +491,7 @@
   },
   {
     "session": "III",
-    "area": "MTP",
+    "area": "IA",
     "order": 5,
     "start": "13:54:00",
     "end": "13:57:30",
