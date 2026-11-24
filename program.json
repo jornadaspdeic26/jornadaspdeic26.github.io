@@ -4,1009 +4,1066 @@
     "area": "IG",
     "order": 1,
     "start": "09:10:00",
-    "end": "09:13:30",
+    "end": "09:14:00",
     "student": "Miguel Filipe Rego Belbute",
     "supervisor": "Carlos Martinho",
-    "presenter": "Carlos Martinho"
+    "presenter": "Carlos Martinho",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IG",
     "order": 2,
-    "start": "09:13:30",
-    "end": "09:17:00",
+    "start": "09:14:00",
+    "end": "09:18:00",
     "student": "José Luís Simões Neves",
     "supervisor": "Catarina Moreira",
-    "presenter": "Joaquim Jorge"
+    "presenter": "Joaquim Jorge",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IG",
     "order": 3,
-    "start": "09:17:00",
-    "end": "09:20:30",
+    "start": "09:18:00",
+    "end": "09:22:00",
     "student": "Bárbara de Araújo Ramalho",
     "supervisor": "Sandra Gama",
-    "presenter": "Sandra Gama"
+    "presenter": "Sandra Gama",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IG",
     "order": 4,
-    "start": "09:20:30",
-    "end": "09:24:00",
+    "start": "09:22:00",
+    "end": "09:26:00",
     "student": "Duarte Luís de Sousa",
     "supervisor": "Sandra Gama",
-    "presenter": "Sandra Gama"
+    "presenter": "Sandra Gama",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IG",
     "order": 5,
-    "start": "09:24:00",
-    "end": "09:27:30",
+    "start": "09:26:00",
+    "end": "09:30:00",
     "student": "Luís Filipe Sebastião Gordete",
     "supervisor": "Sandra Gama",
-    "presenter": "Sandra Gama"
+    "presenter": "Sandra Gama",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IG",
     "order": 6,
-    "start": "09:27:30",
-    "end": "09:31:00",
+    "start": "09:30:00",
+    "end": "09:34:00",
     "student": "João Luís Carrilho Guerreiro",
     "supervisor": "Jacinto Nascimento",
-    "presenter": "Jacinto Nascimento"
+    "presenter": "Jacinto Nascimento",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IG",
     "order": 7,
-    "start": "09:31:00",
-    "end": "09:34:30",
+    "start": "09:34:00",
+    "end": "09:38:00",
     "student": "Xuecong Li",
     "supervisor": "Jacinto Nascimento",
-    "presenter": "Jacinto Nascimento"
+    "presenter": "Jacinto Nascimento",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 8,
-    "start": "09:34:30",
-    "end": "09:38:00",
-    "student": "Pedro Alexandre Calheiros Souto",
-    "supervisor": "Francisco Santos",
-    "presenter": "Francisco Santos"
+    "start": "09:38:00",
+    "end": "09:42:00",
+    "student": "Regina de Brito Duarte",
+    "supervisor": "Joana Campos",
+    "presenter": "Joana Campos",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 9,
-    "start": "09:38:00",
-    "end": "09:41:30",
-    "student": "Regina de Brito Duarte",
+    "start": "09:42:00",
+    "end": "09:46:00",
+    "student": "Joana Barros de Brito",
     "supervisor": "Joana Campos",
-    "presenter": "Joana Campos"
+    "presenter": "Joana Campos",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 10,
-    "start": "09:41:30",
-    "end": "09:45:00",
-    "student": "Joana Barros de Brito",
-    "supervisor": "Joana Campos",
-    "presenter": "Joana Campos"
+    "start": "09:46:00",
+    "end": "09:50:00",
+    "student": "Afonso Cruz Bandeira Fernandes",
+    "supervisor": "Manuel Lopes",
+    "presenter": "Pedro Alexandre Simões dos Santos",
+    "status": "Indisponível"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 11,
-    "start": "09:45:00",
-    "end": "09:48:30",
-    "student": "Afonso Cruz Bandeira Fernandes",
-    "supervisor": "Manuel Lopes",
-    "presenter": "Pedro Alexandre Simões dos Santos"
+    "start": "09:50:00",
+    "end": "09:54:00",
+    "student": "Martim Zanatti dos Santos Gomes da Silva",
+    "supervisor": "Sofia Pinto",
+    "presenter": "Sofia Pinto",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 12,
-    "start": "09:48:30",
-    "end": "09:52:00",
-    "student": "Martim Zanatti dos Santos Gomes da Silva",
-    "supervisor": "Sofia Pinto",
-    "presenter": "Sofia Pinto"
+    "start": "09:54:00",
+    "end": "09:58:00",
+    "student": "Íris Isabel Coimbra Damião",
+    "supervisor": "Joana Gonçalves de Sá",
+    "presenter": "Nuno Santos",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 13,
-    "start": "09:52:00",
-    "end": "09:55:30",
-    "student": "Íris Isabel Coimbra Damião",
-    "supervisor": "Joana Gonçalves de Sá",
-    "presenter": "Joana Gonçalves de Sá"
+    "start": "09:58:00",
+    "end": "10:02:00",
+    "student": "Sandra Marisa Carvalho de Andrade",
+    "supervisor": "Filipa Correia",
+    "presenter": "Filipa Correia",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 14,
-    "start": "09:55:30",
-    "end": "09:59:00",
-    "student": "Sandra Marisa Carvalho de Andrade",
-    "supervisor": "Filipa Correia",
-    "presenter": "Filipa Correia"
+    "start": "10:02:00",
+    "end": "10:06:00",
+    "student": "Isabel Pereira Coutinho",
+    "supervisor": "Bruno Martins",
+    "presenter": "Bruno Martins",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 15,
-    "start": "09:59:00",
-    "end": "10:02:30",
-    "student": "Isabel Pereira Coutinho",
+    "start": "10:06:00",
+    "end": "10:10:00",
+    "student": "Helder José de Sousa Dias",
     "supervisor": "Bruno Martins",
-    "presenter": "Bruno Martins"
+    "presenter": "Bruno Martins",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 16,
-    "start": "10:02:30",
-    "end": "10:06:00",
-    "student": "Helder José de Sousa Dias",
-    "supervisor": "Bruno Martins",
-    "presenter": "Bruno Martins"
+    "start": "10:10:00",
+    "end": "10:14:00",
+    "student": "Gonçalo Emanuel Cavaco Gomes",
+    "supervisor": "Chrysoula Zerva",
+    "presenter": "Bruno Martins",
+    "status": "Confirmado"
   },
   {
     "session": "I",
     "area": "IA",
     "order": 17,
-    "start": "10:06:00",
-    "end": "10:09:30",
-    "student": "Gonçalo Emanuel Cavaco Gomes",
-    "supervisor": "Chrysoula Zerva",
-    "presenter": "Bruno Martins"
-  },
-  {
-    "session": "I",
-    "area": "IA",
-    "order": 18,
-    "start": "10:09:30",
-    "end": "10:13:00",
+    "start": "10:14:00",
+    "end": "10:18:00",
     "student": "Gonçalo Polónia de Matos",
     "supervisor": "Ernesto Morgado",
-    "presenter": "Ernesto Morgado"
+    "presenter": "Ernesto Morgado",
+    "status": "Confirmado"
   },
   {
     "session": "I",
-    "area": "IA",
+    "area": "SI",
+    "order": 18,
+    "start": "10:18:00",
+    "end": "10:22:00",
+    "student": "Rui Miguel Dias Carvalho",
+    "supervisor": "Alberto Silva",
+    "presenter": "Alberto Silva",
+    "status": "Confirmado"
+  },
+  {
+    "session": "I",
+    "area": "SI",
     "order": 19,
-    "start": "10:13:00",
-    "end": "10:16:30",
-    "student": "Duarte Miguel Rodrigues dos Santos Marques Alves",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
+    "start": "10:22:00",
+    "end": "10:26:00",
+    "student": "André Alves Augusto",
+    "supervisor": "André Vasconcelos",
+    "presenter": "André Vasconcelos",
+    "status": "Confirmado"
   },
   {
     "session": "I",
-    "area": "IA",
+    "area": "SI",
     "order": 20,
-    "start": "10:16:30",
-    "end": "10:20:00",
-    "student": "Sophia Sklaviadis",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
+    "start": "10:26:00",
+    "end": "10:30:00",
+    "student": "Mahmoud Abdulaziz Elsayed Yousef",
+    "supervisor": "André Vasconcelos",
+    "presenter": "André Vasconcelos",
+    "status": "Confirmado"
   },
   {
     "session": "I",
-    "area": "IA",
+    "area": "SI",
     "order": 21,
-    "start": "10:20:00",
-    "end": "10:23:30",
-    "student": "Emmanouil Zaranis",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
-  },
-  {
-    "session": "I",
-    "area": "IA",
-    "order": 22,
-    "start": "10:23:30",
-    "end": "10:27:00",
-    "student": "Sonal Sannigrahi",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
-  },
-  {
-    "session": "I",
-    "area": "IA",
-    "order": 23,
-    "start": "10:27:00",
-    "end": "10:30:30",
-    "student": "Miguel Moura Ramos",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
-  },
-  {
-    "session": "I",
-    "area": "IA",
-    "order": 24,
-    "start": "10:30:30",
+    "start": "10:30:00",
     "end": "10:34:00",
-    "student": "José Maria Pereira Rosa Correia Pombal",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
+    "student": "Maria Freire Braz da Silva",
+    "supervisor": "Cláudia Antunes",
+    "presenter": "Cláudia Antunes",
+    "status": "Confirmado"
   },
   {
     "session": "I",
-    "area": "IA",
-    "order": 25,
+    "area": "SI",
+    "order": 22,
     "start": "10:34:00",
-    "end": "10:37:30",
-    "student": "Daniel George Chechelnitsky",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
+    "end": "10:38:00",
+    "student": "Tiago Moreira de Sousa Marcelino",
+    "supervisor": "Luís Sousa",
+    "presenter": "Luís Sousa",
+    "status": "Confirmado"
   },
   {
     "session": "I",
-    "area": "IA",
+    "area": "SI",
+    "order": 23,
+    "start": "10:38:00",
+    "end": "10:42:00",
+    "student": "André Filipe Diegues Fernandes",
+    "supervisor": "Miguel Mira da Silva",
+    "presenter": "Miguel Mira da Silva",
+    "status": "Confirmado"
+  },
+  {
+    "session": "I",
+    "area": "SI",
+    "order": 24,
+    "start": "10:42:00",
+    "end": "10:46:00",
+    "student": "Nuno Miguel dos Santos Lourenço Tomás",
+    "supervisor": "Miguel Mira da Silva",
+    "presenter": "Miguel Mira da Silva",
+    "status": "Confirmado"
+  },
+  {
+    "session": "I",
+    "area": "SI",
+    "order": 25,
+    "start": "10:46:00",
+    "end": "10:50:00",
+    "student": "Teresa Vaz Reynaud",
+    "supervisor": "Rúben Pereira",
+    "presenter": "Miguel Mira da Silva",
+    "status": "Confirmado"
+  },
+  {
+    "session": "I",
+    "area": "SI",
     "order": 26,
-    "start": "10:37:30",
-    "end": "10:41:00",
-    "student": "Beatriz Maria Estevens Canaverde",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
-  },
-  {
-    "session": "I",
-    "area": "IA",
-    "order": 27,
-    "start": "10:41:00",
-    "end": "10:44:30",
-    "student": "André Guilherme Nunes Viveiros",
-    "supervisor": "André Martins",
-    "presenter": "PDEIC coordinator"
+    "start": "10:50:00",
+    "end": "10:54:00",
+    "student": "Sarvenaz Mahmoudzadeh Khameneh",
+    "supervisor": "João Aparício",
+    "presenter": "João Aparício",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 1,
     "start": "11:20:00",
-    "end": "11:23:30",
+    "end": "11:24:00",
     "student": "João Francisco Romeiras da Costa Amado",
     "supervisor": "Fernando Ramos",
-    "presenter": "Fernando Ramos"
+    "presenter": "Fernando Ramos",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 2,
-    "start": "11:23:30",
-    "end": "11:27:00",
+    "start": "11:24:00",
+    "end": "11:28:00",
     "student": "Afonso Tinoco de Faria Cecílio dos Santos",
     "supervisor": "Rodrigo Rodrigues",
-    "presenter": "Rodrigo Rodrigues"
+    "presenter": "Rodrigo Rodrigues",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 3,
-    "start": "11:27:00",
-    "end": "11:30:30",
+    "start": "11:28:00",
+    "end": "11:32:00",
     "student": "Diogo Alexandre Silva Pacheco",
     "supervisor": "Rodrigo Rodrigues",
-    "presenter": "Rodrigo Rodrigues"
+    "presenter": "Rodrigo Rodrigues",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 4,
-    "start": "11:30:30",
-    "end": "11:34:00",
+    "start": "11:32:00",
+    "end": "11:36:00",
     "student": "Vaibhav Arora",
     "supervisor": "Rodrigo Rodrigues",
-    "presenter": "Rodrigo Rodrigues"
+    "presenter": "Rodrigo Rodrigues",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 5,
-    "start": "11:34:00",
-    "end": "11:37:30",
+    "start": "11:36:00",
+    "end": "11:40:00",
     "student": "Mafalda Sofia Carvalho Ferreira",
     "supervisor": "João Garcia",
-    "presenter": "João Garcia"
+    "presenter": "João Garcia",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 6,
-    "start": "11:37:30",
-    "end": "11:41:00",
+    "start": "11:40:00",
+    "end": "11:44:00",
     "student": "Francisco Manuel Chamiça Pereira",
     "supervisor": "Luís Pedrosa",
-    "presenter": "Luís Pedrosa"
+    "presenter": "Luís Pedrosa",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 7,
-    "start": "11:41:00",
-    "end": "11:44:30",
-    "student": "João Rafael Pinto Soares",
-    "supervisor": "Luís Rodrigues",
-    "presenter": "PDEIC coordinator"
+    "start": "11:44:00",
+    "end": "11:48:00",
+    "student": "Seyed Jamal Mir Sadri",
+    "supervisor": "Ricardo Chaves",
+    "presenter": "Luís Pedrosa",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 8,
-    "start": "11:44:30",
-    "end": "11:48:00",
+    "start": "11:48:00",
+    "end": "11:52:00",
     "student": "Diogo Lopes Vaz",
     "supervisor": "Miguel Correia",
-    "presenter": "Miguel Correia"
+    "presenter": "Miguel Correia",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 9,
-    "start": "11:48:00",
-    "end": "11:51:30",
+    "start": "11:52:00",
+    "end": "11:56:00",
     "student": "José Alexandre Silva Cardoso",
     "supervisor": "Miguel Correia",
-    "presenter": "Miguel Correia"
+    "presenter": "Miguel Correia",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 10,
-    "start": "11:51:30",
-    "end": "11:55:00",
+    "start": "11:56:00",
+    "end": "12:00:00",
     "student": "Nuno André Perry da Silva Braz",
     "supervisor": "Miguel Correia",
-    "presenter": "Miguel Correia"
+    "presenter": "Miguel Correia",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 11,
-    "start": "11:55:00",
-    "end": "11:58:30",
+    "start": "12:00:00",
+    "end": "12:04:00",
     "student": "Sebastião Santos Boavida Amaro",
     "supervisor": "Miguel Matos",
-    "presenter": "Miguel Matos"
+    "presenter": "Miguel Matos",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 12,
-    "start": "11:58:30",
-    "end": "12:02:00",
+    "start": "12:04:00",
+    "end": "12:08:00",
     "student": "João Miguel Ferreira Oliveira",
     "supervisor": "Miguel Matos",
-    "presenter": "Miguel Matos"
+    "presenter": "Miguel Matos",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 13,
-    "start": "12:02:00",
-    "end": "12:05:30",
+    "start": "12:08:00",
+    "end": "12:12:00",
     "student": "Pedro Miguel Gomes Silva Rosa",
     "supervisor": "Miguel Pardal",
-    "presenter": "Miguel Pardal"
+    "presenter": "Miguel Pardal",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 14,
-    "start": "12:05:30",
-    "end": "12:09:00",
+    "start": "12:12:00",
+    "end": "12:16:00",
     "student": "João Miguel Costa Veríssimo",
     "supervisor": "Nuno Santos",
-    "presenter": "Nuno Santos"
+    "presenter": "Nuno Santos",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 15,
-    "start": "12:09:00",
-    "end": "12:12:30",
+    "start": "12:16:00",
+    "end": "12:20:00",
     "student": "Francisco Jorge Silva Santos Rola",
     "supervisor": "Paolo Romano",
-    "presenter": "Paolo Romano"
+    "presenter": "Paolo Romano",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 16,
-    "start": "12:12:30",
-    "end": "12:16:00",
+    "start": "12:20:00",
+    "end": "12:24:00",
     "student": "André Miguel Romeiro Faria Lopes",
     "supervisor": "Paolo Romano",
-    "presenter": "Paolo Romano"
+    "presenter": "Paolo Romano",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 17,
-    "start": "12:16:00",
-    "end": "12:19:30",
-    "student": "Seyed Jamal Mir Sadri",
-    "supervisor": "Ricardo Chaves",
-    "presenter": "Ricardo Chaves"
+    "start": "12:24:00",
+    "end": "12:28:00",
+    "student": "Serhii Ivanenko",
+    "supervisor": "Rodrigo Bruno",
+    "presenter": "Rodrigo Bruno",
+    "status": "Confirmado"
   },
   {
     "session": "II",
     "area": "ASO",
     "order": 18,
-    "start": "12:19:30",
-    "end": "12:23:00",
-    "student": "Serhii Ivanenko",
-    "supervisor": "Rodrigo Bruno",
-    "presenter": "Rodrigo Bruno"
+    "start": "12:28:00",
+    "end": "12:32:00",
+    "student": "João Rafael Pinto Soares",
+    "supervisor": "Luís Rodrigues",
+    "presenter": "Luís Rodrigues",
+    "status": "Indisponível"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 1,
     "start": "13:40:00",
-    "end": "13:43:30",
+    "end": "13:44:00",
     "student": "André Filipe Cisneiros Ferreira Salgado",
     "supervisor": "Ana Santos Almeida",
-    "presenter": "Ana Freitas"
+    "presenter": "Ana Freitas",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 2,
-    "start": "13:43:30",
-    "end": "13:47:00",
+    "start": "13:44:00",
+    "end": "13:48:00",
     "student": "Carlos Manuel Ferreira Carvalho",
     "supervisor": "Alberto Abad",
-    "presenter": "Alberto Abad"
+    "presenter": "Alberto Abad",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 3,
-    "start": "13:47:00",
-    "end": "13:50:30",
+    "start": "13:48:00",
+    "end": "13:52:00",
     "student": "Maria Urze Osório",
     "supervisor": "Andreas Wichert",
-    "presenter": "Andreas Wichert"
+    "presenter": "Andreas Wichert",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 4,
-    "start": "13:50:30",
-    "end": "13:54:00",
+    "start": "13:52:00",
+    "end": "13:56:00",
     "student": "Joaquim Domingos Mussandi",
     "supervisor": "Andreas Wichert",
-    "presenter": "Andreas Wichert"
+    "presenter": "Andreas Wichert",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 5,
-    "start": "13:54:00",
-    "end": "13:57:30",
+    "start": "13:56:00",
+    "end": "14:00:00",
     "student": "José Miguel Penedo Ramos",
     "supervisor": "Andreas Wichert",
-    "presenter": "Andreas Wichert"
+    "presenter": "Andreas Wichert",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 6,
-    "start": "13:57:30",
-    "end": "14:01:00",
+    "start": "14:00:00",
+    "end": "14:04:00",
     "student": "Inês Isabel Chinita Pereira",
     "supervisor": "António Leitão",
-    "presenter": "António Leitão"
+    "presenter": "António Leitão",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 7,
-    "start": "14:01:00",
-    "end": "14:04:30",
+    "start": "14:04:00",
+    "end": "14:08:00",
     "student": "Fábio Guilherme Morgado Vital",
     "supervisor": "Francisco Melo",
-    "presenter": "Francisco Melo"
+    "presenter": "Francisco Melo",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 8,
-    "start": "14:04:30",
-    "end": "14:08:00",
+    "start": "14:08:00",
+    "end": "14:12:00",
     "student": "Jacopo Silvestrin",
     "supervisor": "Francisco Melo",
-    "presenter": "Francisco Melo"
+    "presenter": "Francisco Melo",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 9,
-    "start": "14:08:00",
-    "end": "14:11:30",
+    "start": "14:12:00",
+    "end": "14:16:00",
     "student": "João Tomás Brazão Caldeira",
     "supervisor": "Francisco Melo",
-    "presenter": "Francisco Melo"
+    "presenter": "Francisco Melo",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 10,
-    "start": "14:11:30",
-    "end": "14:15:00",
+    "start": "14:16:00",
+    "end": "14:20:00",
     "student": "Ana Vilaça Carrasco",
     "supervisor": "Francisco Melo",
-    "presenter": "Francisco Melo"
+    "presenter": "Francisco Melo",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "IA",
     "order": 11,
-    "start": "14:15:00",
-    "end": "14:18:30",
+    "start": "14:20:00",
+    "end": "14:24:00",
     "student": "Bernardo Anjinho Esteves",
     "supervisor": "Francisco Melo",
-    "presenter": "Francisco Melo"
+    "presenter": "Francisco Melo",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 12,
-    "start": "14:18:30",
-    "end": "14:22:00",
+    "start": "14:24:00",
+    "end": "14:28:00",
     "student": "Rishi Tripathi",
     "supervisor": "Luis Guerra e Silva",
-    "presenter": "Luis Guerra e Silva"
+    "presenter": "Luis Guerra e Silva",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 13,
-    "start": "14:22:00",
-    "end": "14:25:30",
+    "start": "14:28:00",
+    "end": "14:32:00",
     "student": "Beatriz Neves Leitão",
     "supervisor": "Susana Vinga",
-    "presenter": "Susana Vinga"
+    "presenter": "Susana Vinga",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 14,
-    "start": "14:25:30",
-    "end": "14:29:00",
+    "start": "14:32:00",
+    "end": "14:36:00",
     "student": "Ana Rita do Nascimento Baião",
     "supervisor": "Emanuel Gonçalves",
-    "presenter": "Emanuel Gonçalves"
+    "presenter": "Emanuel Gonçalves",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 15,
-    "start": "14:29:00",
-    "end": "14:32:30",
+    "start": "14:36:00",
+    "end": "14:40:00",
     "student": "Martim Belo de Carvalho Duarte Afonso",
     "supervisor": "João Ferreira",
-    "presenter": "João Ferreira"
+    "presenter": "João Ferreira",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 16,
-    "start": "14:32:30",
-    "end": "14:36:00",
+    "start": "14:40:00",
+    "end": "14:44:00",
     "student": "Carolina Maria Da Cunha Carreira",
     "supervisor": "João Ferreira",
-    "presenter": "João Ferreira"
+    "presenter": "João Ferreira",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 17,
-    "start": "14:36:00",
-    "end": "14:39:30",
+    "start": "14:44:00",
+    "end": "14:48:00",
     "student": "Henrique Botelho Guerra",
     "supervisor": "João Ferreira",
-    "presenter": "João Ferreira"
+    "presenter": "João Ferreira",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 18,
-    "start": "14:39:30",
-    "end": "14:43:00",
+    "start": "14:48:00",
+    "end": "14:52:00",
     "student": "Nuno Filipe Marques Saavedra da Silva",
     "supervisor": "João Ferreira",
-    "presenter": "João Ferreira"
+    "presenter": "João Ferreira",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 19,
-    "start": "14:43:00",
-    "end": "14:46:30",
+    "start": "14:52:00",
+    "end": "14:56:00",
     "student": "Bruno Octávio Horta Lourenço",
     "supervisor": "João Ferreira",
-    "presenter": "João Ferreira"
+    "presenter": "João Ferreira",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 20,
-    "start": "14:46:30",
-    "end": "14:50:00",
+    "start": "14:56:00",
+    "end": "15:00:00",
     "student": "Filipe dos Santos Oliveira Marques",
     "supervisor": "José Fragoso Santos",
-    "presenter": "José Fragoso Santos"
+    "presenter": "José Fragoso Santos",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 21,
-    "start": "14:50:00",
-    "end": "14:53:30",
+    "start": "15:00:00",
+    "end": "15:04:00",
     "student": "Frederico Duarte Ramos",
     "supervisor": "José Fragoso Santos",
-    "presenter": "José Fragoso Santos"
+    "presenter": "José Fragoso Santos",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 22,
-    "start": "14:53:30",
-    "end": "14:57:00",
+    "start": "15:04:00",
+    "end": "15:08:00",
     "student": "André Filipe Ferreira do Nascimento",
     "supervisor": "José Fragoso Santos",
-    "presenter": "José Fragoso Santos"
+    "presenter": "José Fragoso Santos",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 23,
-    "start": "14:57:00",
-    "end": "15:00:30",
+    "start": "15:08:00",
+    "end": "15:12:00",
     "student": "Rafael Henriques dos Santos Gonçalves",
     "supervisor": "José Fragoso Santos",
-    "presenter": "José Fragoso Santos"
+    "presenter": "José Fragoso Santos",
+    "status": "Confirmado"
   },
   {
     "session": "III",
     "area": "MTP",
     "order": 24,
-    "start": "15:00:30",
-    "end": "15:04:00",
+    "start": "15:12:00",
+    "end": "15:16:00",
     "student": "Lu Xufan",
     "supervisor": "Nuno Lopes",
-    "presenter": "Nuno Lopes"
+    "presenter": "Nuno Lopes",
+    "status": "Indisponível"
   },
   {
     "session": "III",
-    "area": "MTP",
+    "area": "IA",
     "order": 25,
-    "start": "15:04:00",
-    "end": "15:07:30",
-    "student": "Tomás Ferreira de Pinho e Duarte de Almeida",
-    "supervisor": "Alexandre Francisco",
-    "presenter": "Alexandre Francisco"
+    "start": "15:16:00",
+    "end": "15:20:00",
+    "student": "Duarte Miguel Rodrigues dos Santos Marques Alves",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
   },
   {
     "session": "III",
-    "area": "MTP",
+    "area": "IA",
     "order": 26,
-    "start": "15:07:30",
-    "end": "15:11:00",
-    "student": "Mohamed Rabie Khalil Ibrahim Elbawab",
-    "supervisor": "Alexandre Francisco",
-    "presenter": "Alexandre Francisco"
+    "start": "15:20:00",
+    "end": "15:24:00",
+    "student": "Sophia Sklaviadis",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
   },
   {
     "session": "III",
-    "area": "MTP",
+    "area": "IA",
     "order": 27,
-    "start": "15:11:00",
-    "end": "15:14:30",
-    "student": "Renato de Sousa Marcelo",
-    "supervisor": "Alexandre Francisco",
-    "presenter": "Alexandre Francisco"
+    "start": "15:24:00",
+    "end": "15:28:00",
+    "student": "Emmanouil Zaranis",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
   },
   {
     "session": "III",
-    "area": "MTP",
+    "area": "IA",
     "order": 28,
-    "start": "15:14:30",
-    "end": "15:18:00",
-    "student": "Mohanna Mousabeigi",
-    "supervisor": "Cátia Vaz",
-    "presenter": "Alexandre Francisco"
+    "start": "15:28:00",
+    "end": "15:32:00",
+    "student": "Sonal Sannigrahi",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 1,
-    "start": "15:50:00",
-    "end": "15:53:30",
+    "start": "16:00:00",
+    "end": "16:04:00",
     "student": "Catarina Gonçalves Fidalgo",
     "supervisor": "Augusto Esteves",
-    "presenter": "Augusto Esteves"
+    "presenter": "Augusto Esteves",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 2,
-    "start": "15:53:30",
-    "end": "15:57:00",
+    "start": "16:04:00",
+    "end": "16:08:00",
     "student": "Beatriz Severes Lopes",
     "supervisor": "Augusto Esteves",
-    "presenter": "Augusto Esteves"
+    "presenter": "Augusto Esteves",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 3,
-    "start": "15:57:00",
-    "end": "16:00:30",
+    "start": "16:08:00",
+    "end": "16:12:00",
     "student": "Adrian Javier Leon Valencia",
     "supervisor": "Augusto Esteves",
-    "presenter": "Augusto Esteves"
+    "presenter": "Augusto Esteves",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 4,
-    "start": "16:00:30",
-    "end": "16:04:00",
-    "student": "Noha Mokhtar Al-Moshneb",
+    "start": "16:12:00",
+    "end": "16:16:00",
+    "student": "Inês Câmara Viveiros Vara Alves",
     "supervisor": "Augusto Esteves",
-    "presenter": "Augusto Esteves"
+    "presenter": "Augusto Esteves",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 5,
-    "start": "16:04:00",
-    "end": "16:07:30",
-    "student": "Inês Câmara Viveiros Vara Alves",
-    "supervisor": "Augusto Esteves",
-    "presenter": "Augusto Esteves"
+    "start": "16:16:00",
+    "end": "16:20:00",
+    "student": "Ziqi Huang",
+    "supervisor": "Nuno Nunes",
+    "presenter": "Nuno Nunes",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 6,
-    "start": "16:07:30",
-    "end": "16:11:00",
-    "student": "Ziqi Huang",
+    "start": "16:20:00",
+    "end": "16:24:00",
+    "student": "Ying Xu",
     "supervisor": "Nuno Nunes",
-    "presenter": "Nuno Nunes"
+    "presenter": "Nuno Nunes",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 7,
-    "start": "16:11:00",
-    "end": "16:14:30",
-    "student": "Ying Xu",
-    "supervisor": "Nuno Nunes",
-    "presenter": "Nuno Nunes"
+    "start": "16:24:00",
+    "end": "16:28:00",
+    "student": "Patrícia Isabel Figueira da Piedade",
+    "supervisor": "Hugo Nicolau",
+    "presenter": "Hugo Nicolau",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 8,
-    "start": "16:14:30",
-    "end": "16:18:00",
-    "student": "Patrícia Isabel Figueira da Piedade",
-    "supervisor": "Hugo Nicolau",
-    "presenter": "Hugo Nicolau"
+    "start": "16:28:00",
+    "end": "16:32:00",
+    "student": "Maria Inês Vilhena de Mendonça Lobo",
+    "supervisor": "Rui Prada",
+    "presenter": "Rui Prada",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 9,
-    "start": "16:18:00",
-    "end": "16:21:30",
-    "student": "Maria Inês Vilhena de Mendonça Lobo",
+    "start": "16:32:00",
+    "end": "16:36:00",
+    "student": "António Medeiros Fernandes",
     "supervisor": "Rui Prada",
-    "presenter": "Rui Prada"
+    "presenter": "Rui Prada",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 10,
-    "start": "16:21:30",
-    "end": "16:25:00",
-    "student": "António Medeiros Fernandes",
+    "start": "16:36:00",
+    "end": "16:40:00",
+    "student": "Maria Margarida Marques Serralheiro",
     "supervisor": "Rui Prada",
-    "presenter": "Rui Prada"
+    "presenter": "Rui Prada",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IG",
     "order": 11,
-    "start": "16:25:00",
-    "end": "16:28:30",
-    "student": "Maria Margarida Marques Serralheiro",
-    "supervisor": "Rui Prada",
-    "presenter": "Rui Prada"
+    "start": "16:40:00",
+    "end": "16:44:00",
+    "student": "Neeta Khanuja",
+    "supervisor": "Valentina Nisi",
+    "presenter": "Valentina Nisi",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
-    "area": "IG",
+    "area": "IA",
     "order": 12,
-    "start": "16:28:30",
-    "end": "16:32:00",
-    "student": "Neeta Khanuja",
-    "supervisor": "Valentina Nisi",
-    "presenter": "Valentina Nisi"
+    "start": "16:44:00",
+    "end": "16:48:00",
+    "student": "Ana Beatriz Gil Vieira",
+    "supervisor": "Arlindo Oliveira",
+    "presenter": "Arlindo Oliveira",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IA",
     "order": 13,
-    "start": "16:32:00",
-    "end": "16:35:30",
-    "student": "Ana Beatriz Gil Vieira",
+    "start": "16:48:00",
+    "end": "16:52:00",
+    "student": "André Vicente Duarte",
     "supervisor": "Arlindo Oliveira",
-    "presenter": "Arlindo Oliveira"
+    "presenter": "Arlindo Oliveira",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IA",
     "order": 14,
-    "start": "16:35:30",
-    "end": "16:39:00",
-    "student": "André Vicente Duarte",
+    "start": "16:52:00",
+    "end": "16:56:00",
+    "student": "João Pedro dos Santos de Castro Marques",
     "supervisor": "Arlindo Oliveira",
-    "presenter": "Arlindo Oliveira"
+    "presenter": "Arlindo Oliveira",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IA",
     "order": 15,
-    "start": "16:39:00",
-    "end": "16:42:30",
-    "student": "João Pedro dos Santos de Castro Marques",
+    "start": "16:56:00",
+    "end": "17:00:00",
+    "student": "Francisco Luís Teixeira Valadares Guedes da Silva",
     "supervisor": "Arlindo Oliveira",
-    "presenter": "Arlindo Oliveira"
+    "presenter": "Arlindo Oliveira",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IA",
     "order": 16,
-    "start": "16:42:30",
-    "end": "16:46:00",
-    "student": "Francisco Luís Teixeira Valadares Guedes da Silva",
+    "start": "17:00:00",
+    "end": "17:04:00",
+    "student": "Duarte Vaz Osório de Penalva Boto",
     "supervisor": "Arlindo Oliveira",
-    "presenter": "Arlindo Oliveira"
+    "presenter": "Arlindo Oliveira",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IA",
     "order": 17,
-    "start": "16:46:00",
-    "end": "16:49:30",
-    "student": "Duarte Vaz Osório de Penalva Boto",
+    "start": "17:04:00",
+    "end": "17:08:00",
+    "student": "Inês Sofia Nunes Duarte",
     "supervisor": "Arlindo Oliveira",
-    "presenter": "Arlindo Oliveira"
+    "presenter": "Arlindo Oliveira",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
     "area": "IA",
     "order": 18,
-    "start": "16:49:30",
-    "end": "16:53:00",
-    "student": "Inês Sofia Nunes Duarte",
-    "supervisor": "Arlindo Oliveira",
-    "presenter": "Arlindo Oliveira"
+    "start": "17:08:00",
+    "end": "17:12:00",
+    "student": "Mohamed Rabie Khalil Ibrahim Elbawab",
+    "supervisor": "Alexandre Francisco",
+    "presenter": "Alexandre Francisco",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
-    "area": "SI",
+    "area": "IA",
     "order": 19,
-    "start": "16:53:00",
-    "end": "16:56:30",
-    "student": "Rui Miguel Dias Carvalho",
-    "supervisor": "Alberto Silva",
-    "presenter": "Alberto Silva"
+    "start": "17:12:00",
+    "end": "17:16:00",
+    "student": "Renato de Sousa Marcelo",
+    "supervisor": "Alexandre Francisco",
+    "presenter": "Alexandre Francisco",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
-    "area": "SI",
+    "area": "IA",
     "order": 20,
-    "start": "16:56:30",
-    "end": "17:00:00",
-    "student": "André Alves Augusto",
-    "supervisor": "André Vasconcelos",
-    "presenter": "André Vasconcelos"
+    "start": "17:16:00",
+    "end": "17:20:00",
+    "student": "Mohanna Mousabeigi",
+    "supervisor": "Cátia Vaz",
+    "presenter": "Alexandre Francisco",
+    "status": "Confirmado"
   },
   {
     "session": "IV",
-    "area": "SI",
+    "area": "IA",
     "order": 21,
-    "start": "17:00:00",
-    "end": "17:03:30",
-    "student": "Mahmoud Abdulaziz Elsayed Yousef",
-    "supervisor": "André Vasconcelos",
-    "presenter": "André Vasconcelos"
+    "start": "17:20:00",
+    "end": "17:24:00",
+    "student": "Miguel Moura Ramos",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
   },
   {
     "session": "IV",
-    "area": "SI",
+    "area": "IA",
     "order": 22,
-    "start": "17:03:30",
-    "end": "17:07:00",
-    "student": "Maria Freire Braz da Silva",
-    "supervisor": "Cláudia Antunes",
-    "presenter": "Cláudia Antunes"
-  },
-  {
-    "session": "IV",
-    "area": "SI",
-    "order": 23,
-    "start": "17:07:00",
-    "end": "17:10:30",
-    "student": "Sarvenaz Mahmoudzadeh Khameneh",
-    "supervisor": "João Aparício",
-    "presenter": "João Aparício"
-  },
-  {
-    "session": "IV",
-    "area": "SI",
-    "order": 24,
-    "start": "17:10:30",
-    "end": "17:14:00",
-    "student": "Gessildo Fernando Bengui",
-    "supervisor": "José Borbinha",
-    "presenter": "José Borbinha"
-  },
-  {
-    "session": "IV",
-    "area": "SI",
-    "order": 25,
-    "start": "17:14:00",
-    "end": "17:17:30",
-    "student": "Tiago Moreira de Sousa Marcelino",
-    "supervisor": "Luís Sousa",
-    "presenter": "Luís Sousa"
-  },
-  {
-    "session": "IV",
-    "area": "SI",
-    "order": 26,
-    "start": "17:17:30",
-    "end": "17:21:00",
-    "student": "André Filipe Diegues Fernandes",
-    "supervisor": "Miguel Mira da Silva",
-    "presenter": "Miguel Mira da Silva"
-  },
-  {
-    "session": "IV",
-    "area": "SI",
-    "order": 27,
-    "start": "17:21:00",
-    "end": "17:24:30",
-    "student": "Nuno Miguel dos Santos Lourenço Tomás",
-    "supervisor": "Miguel Mira da Silva",
-    "presenter": "Miguel Mira da Silva"
-  },
-  {
-    "session": "IV",
-    "area": "SI",
-    "order": 28,
-    "start": "17:24:30",
+    "start": "17:24:00",
     "end": "17:28:00",
-    "student": "Teresa Vaz Reynaud",
-    "supervisor": "Rúben Pereira",
-    "presenter": "Miguel Mira da Silva"
+    "student": "José Maria Pereira Rosa Correia Pombal",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
+  },
+  {
+    "session": "IV",
+    "area": "IA",
+    "order": 23,
+    "start": "17:28:00",
+    "end": "17:32:00",
+    "student": "Daniel George Chechelnitsky",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
+  },
+  {
+    "session": "IV",
+    "area": "IA",
+    "order": 24,
+    "start": "17:32:00",
+    "end": "17:36:00",
+    "student": "Beatriz Maria Estevens Canaverde",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
+  },
+  {
+    "session": "IV",
+    "area": "IA",
+    "order": 25,
+    "start": "17:36:00",
+    "end": "17:40:00",
+    "student": "André Guilherme Nunes Viveiros",
+    "supervisor": "André Martins",
+    "presenter": "André Martins",
+    "status": "Indisponível"
   }
 ]
